@@ -90,8 +90,8 @@
 
 - [添加 Secret](../../settings/secrets/actions/new)
 - [添加 Variable](../../settings/variables/actions/new)
-> 添加 Secret: `Settings → Secrets and variables → Actions → New repository secret`
-> 添加 Variable: `Settings → Secrets and variables → Actions → Variables → New repository variable`
+>- 添加 Secret: `Settings → Secrets and variables → Actions → New repository secret`
+>- 添加 Variable: `Settings → Secrets and variables → Actions → Variables → New repository variable`
 
 
 ---
