@@ -26,6 +26,7 @@
    - **Note**: `Sync GitHub Repo`
    - **Expiration**: 选择一个合适的时间（或 No expiration）
    - **权限勾选**: `repo`（完整的仓库访问权限）
+   - **权限勾选**: `workflow`（可选，视上游仓库是否包含上游仓库包含**GitHub Actions workflow 文件** ）
 5. 点击 **Generate token**
 6. **复制生成的 token**（只显示一次！）
 
